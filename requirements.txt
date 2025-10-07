@@ -1,0 +1,12 @@
+tensorflow
+torch 
+torchvision
+numpy 
+pandas 
+matplotlib 
+seaborn
+opencv-python
+scikit-learn
+tensorflow-datasets
+fastapi
+uvicorn
